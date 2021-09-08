@@ -1,0 +1,26 @@
+{
+  "files": {
+    "0.b1c60110.iframe.bundle.js": "./0.b1c60110.iframe.bundle.js",
+    "main.js": "./main.df93bd36.iframe.bundle.js",
+    "runtime~main.js": "./runtime~main.1af3cde3.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.575b8ce2.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.575b8ce2.iframe.bundle.js.map",
+    "4.15295883.iframe.bundle.js": "./4.15295883.iframe.bundle.js",
+    "4.15295883.iframe.bundle.js.map": "./4.15295883.iframe.bundle.js.map",
+    "5.8016c821.iframe.bundle.js": "./5.8016c821.iframe.bundle.js",
+    "6.64684313.iframe.bundle.js": "./6.64684313.iframe.bundle.js",
+    "6.64684313.iframe.bundle.js.map": "./6.64684313.iframe.bundle.js.map",
+    "7.856000ef.iframe.bundle.js": "./7.856000ef.iframe.bundle.js",
+    "4.15295883.iframe.bundle.js.LICENSE.txt": "./4.15295883.iframe.bundle.js.LICENSE.txt",
+    "6.64684313.iframe.bundle.js.LICENSE.txt": "./6.64684313.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.492af86ac7054195ba1ccf9b7d9ebdec.js": "./precache-manifest.492af86ac7054195ba1ccf9b7d9ebdec.js",
+    "service-worker.js": "./service-worker.js",
+    "vendors~main.575b8ce2.iframe.bundle.js.LICENSE.txt": "./vendors~main.575b8ce2.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.1af3cde3.iframe.bundle.js",
+    "vendors~main.575b8ce2.iframe.bundle.js",
+    "main.df93bd36.iframe.bundle.js"
+  ]
+}
